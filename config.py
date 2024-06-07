@@ -1,0 +1,4 @@
+FIREBASE_CREDENTIALS= {
+  ...
+}
+
