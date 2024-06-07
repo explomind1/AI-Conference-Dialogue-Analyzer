@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/explomind1/AI-Conference-Dialogue-Analyzer/main/d_C5Ju6Y8N.svg" >
+</p>
+
+
 # AI Conference Dialogues Analyzer
 
 ## Overview
@@ -69,8 +74,6 @@ To use this system, make an API request through the configured API Gateway endpo
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 For any further queries or technical support, please contact [emreturan1269@gmail.com](mailto:emreturan1269@gmail.com).
