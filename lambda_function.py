@@ -22,7 +22,7 @@ def lambda_handler(event, context):
 
     db = firestore.client(app=app)
     s3_client = boto3.client('s3')
-    ses_client = boto3.client('ses', region_name='...')
+    ses_client = boto3.client('ses', region_name='....')
 
     # Fetch user messages from Firestore
     whatsapp_data = get_all_user_inputs(db)
